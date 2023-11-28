@@ -12,7 +12,7 @@
    ![image](https://github.com/sekaria/PEMDAS-AI/assets/91649121/4049236a-36b3-4064-ae5c-3f597909dd0d)
 
 
-##Penjelasan nama file
+## Penjelasan nama file
 1. Mari berhitung == Let's count with Agus!
 2. Berbagi dengan adil == Sharing is caring bro
 3. Mengenal bilangan == Getting to know numbers
